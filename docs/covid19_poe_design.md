@@ -1,10 +1,4 @@
-# COVID-19 Points of Entry Tracker System Design v0.3.1 { #covid19-poe-design }
-
-Last updated 24/03/2020
-
-Package version: 0.3.1
-
-DHIS2 Version compatibility 2.33.2
+# COVID-19 Points of Entry Tracker Design { #covid19-poe-design }
 
 Demo: [https://covid19.dhis2.org/](https://covid19.dhis2.org/demo)
 
