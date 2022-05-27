@@ -1,4 +1,4 @@
-# COVID-19 Points of Entry Tracker Design { #covid19-poe-design }
+# COVID-19 Points of Entry Tracker Design { #c19-poe-design }
 
 Demo: [https://covid19.dhis2.org/](https://covid19.dhis2.org/demo)
 
