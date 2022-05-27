@@ -1,1 +1,1 @@
-# COVID19_POE - Points of Entry metadata package
+# COVID-19 - Point of Entry Screening metadata package
