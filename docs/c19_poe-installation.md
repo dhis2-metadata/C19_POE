@@ -1,4 +1,5 @@
-# COVID-19 Surveillance - Installation Guide
+# COVID-19 Surveillance - Installation Guide { #c19-poe-installation }
+
 ## Overview
 
 The COVID-19 tracker package was developed using DHIS2.33.2. This was done in order to support some of the latest features in DHIS2. In order to use the package, it is recommended that you install it into a DHIS2 instance using DHIS2 2.33.2 or above. If you will be setting this up on a new instance, please refer to the [DHIS2 installation guide](https://docs.dhis2.org/en/manage/performing-system-administration/dhis-core-version-master/installation.html). This document covers the installation of the following packages:
